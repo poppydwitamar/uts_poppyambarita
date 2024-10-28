@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editUsername" type="id">editUsername</item>
+    <item name="username" type="id">Username</item>
+    <item name="password" type="id">Password</item>
+    <item name="editnama" type="id">editNama</item>
+    <item name="editDeskripsi" type="id">edirDeskripsi</item>
+    <item name="spinnerStatus" type="id">spinnerStatus</item>
+    <item name="btnSimpan" type="id">btnSimpan</item>
+</resources>
